@@ -1,0 +1,10 @@
+site_name: Azure Service Bus Tutorial
+theme: readthedocs
+nav:
+  - Index: 'index.md'
+  - 'Create Service Bus': 'create-sb.md'
+  - 'Create Queue': 'create-queue.md'
+  - 'Get the connection string': 'connection-string.md'
+  - 'Send Queue Message': 'send-queue-message.md'
+  - 'Receive Queue Message': 'receive-queue-message.md'
+  - 'Process Queue Messages': 'process-queue-messages.md'
